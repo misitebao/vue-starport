@@ -1,9 +1,1 @@
-<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle r="42.5696" transform="matrix(-1 0 0 1 98.2595 76.4937)" fill="#35495E"/>
-<rect width="132" height="44" transform="matrix(-1 0 0 1 141 59)" fill="#35495E"/>
-<rect width="26" height="39.5823" rx="5" transform="matrix(-1 0 0 1 140.829 94.4177)" fill="#35495E"/>
-<rect width="26" height="49" rx="5" transform="matrix(-1 0 0 1 85 88)" fill="#35495E"/>
-<rect width="26" height="39.5823" rx="5" transform="matrix(-1 0 0 1 35 88)" fill="#35495E"/>
-<rect width="114" height="44" rx="5" transform="matrix(-1 0 0 1 123 37)" fill="#41B883"/>
-<circle r="42.5696" transform="matrix(-1 0 0 1 98.2595 58.5696)" fill="#41B883"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150" fill="none" viewBox="0 0 150 150"><circle r="42.57" fill="#35495E" transform="matrix(-1 0 0 1 98.2595 76.4937)"/><rect width="132" height="44" fill="#35495E" transform="matrix(-1 0 0 1 141 59)"/><rect width="26" height="39.582" fill="#35495E" rx="5" transform="matrix(-1 0 0 1 140.829 94.4177)"/><rect width="26" height="49" fill="#35495E" rx="5" transform="matrix(-1 0 0 1 85 88)"/><rect width="26" height="39.582" fill="#35495E" rx="5" transform="matrix(-1 0 0 1 35 88)"/><rect width="114" height="44" fill="#41B883" rx="5" transform="matrix(-1 0 0 1 123 37)"/><circle r="42.57" fill="#41B883" transform="matrix(-1 0 0 1 98.2595 58.5696)"/></svg>
